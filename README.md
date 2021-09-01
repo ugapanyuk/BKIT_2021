@@ -8,6 +8,7 @@
 #### Видеотрансляции лекций на youtube?
 
 1. Введение в Python:
+    * [Парадигмы программирования](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%B8%D0%B3%D0%BC%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
     * [История языка Python и основные ссылки.](https://github.com/ugapanyuk/BKIT_2021/wiki/python_intro)
     * [Используемые средства разработки.](https://github.com/ugapanyuk/BKIT_2021/wiki/IDE)
     * [Базовые конструкции языка Python.](https://nbviewer.jupyter.org/github/ugapanyuk/BKIT_2021/blob/main/notebooks/lect_1/python_lect_1.ipynb)
