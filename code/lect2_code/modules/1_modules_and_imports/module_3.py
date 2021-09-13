@@ -27,3 +27,21 @@ if __name__ == "__main__":
 
     else:
         print("No command line params")
+
+
+'''
+Запуск скрипта:
+module_3.py 100 23
+
+В консоль выводится следующее:
+
+Importing module 3
+This code is not running when importing module. Only when executing as script.
+Param 0 = .../1_modules_and_imports/module_3.py
+
+Param 0 = .../1_modules_and_imports/module_3.py
+Param 1 = 100
+Param 2 = 23
+Running sum1 from module 3
+100.0 + 23.0 = 123.0
+'''

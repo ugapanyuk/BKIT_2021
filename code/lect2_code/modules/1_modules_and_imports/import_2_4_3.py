@@ -14,3 +14,15 @@ a,b = 2,3
 
 print('{} + {} = {}'.format(a, b, module_1_sum1(a,b)))
 print('{} + {} = {}'.format(a, b, module_2_sum1(a,b)))
+
+'''
+В консоль выводится следующее:
+
+Importing module 1
+Importing module 2
+Hello from import_2_4_3.py
+Running sum1 from module 1
+2 + 3 = 5
+Running sum1 from module 2
+2 + 3 = 5
+'''
