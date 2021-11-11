@@ -40,7 +40,9 @@
     * [Шаблоны проектирования - реализация на различных языках.](https://refactoring.guru/ru/design-patterns/catalog)
     * [Шаблоны проектирования - реализация на C#.](https://metanit.com/sharp/patterns/1.1.php)
     * [Введение в модульное тестирование.](https://github.com/ugapanyuk/BKIT_2021/blob/main/pres/bkit_test.pdf)
-
+    * [Robotic Process Automation.](https://ru.wikipedia.org/wiki/Robotic_process_automation)
+    * [Статья. Внедрение зависимостей в Python.](https://webdevblog.ru/vnedrenie-zavisimostej-v-python/)
+    * [Статья. SOLID принципы.](https://webdevblog.ru/solid-principy-chast-1/)
 
 
 ## Лабораторные работы:
