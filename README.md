@@ -45,14 +45,20 @@
     * [Статья. SOLID принципы.](https://webdevblog.ru/solid-principy-chast-1/)
 
 
+1. [Введение в разработку чат-ботов на платформе Telegram.](https://github.com/ugapanyuk/BKIT_2021/blob/master/pres/chatbot/bkit_telegram.pdf)
+
+
 ## Лабораторные работы:
 1. [Основные конструкции языка Python.](https://github.com/ugapanyuk/BKIT_2021/wiki/lab_python_intro) ( [Пример](/code/lab1_code) )
 1. [Объектно-ориентированные возможности языка Python.](https://github.com/ugapanyuk/BKIT_2021/wiki/lab_python_oop) ( [Пример](/code/lab2_code) )
 1. [Функциональные возможности языка Python.](https://github.com/ugapanyuk/BKIT_2021/wiki/lab_python_fp)
 1. [Шаблоны проектирования и модульное тестирование в Python.](https://github.com/ugapanyuk/BKIT_2021/wiki/lab_python_test)
+1. [Разработка простого бота для Telegram с использованием языка Python.](https://github.com/ugapanyuk/BKIT_2021/wiki/lab_bot1)
+1. [Разработка бота на основе конечного автомата для Telegram с использованием языка Python.](https://github.com/ugapanyuk/BKIT_2021/wiki/lab_bot2)
 
 
 ## Домашнее задание:
+[Условия домашнего задания.](https://github.com/ugapanyuk/BKIT_2021/wiki/DZ)
 
 ## Рубежные контроли:
 
