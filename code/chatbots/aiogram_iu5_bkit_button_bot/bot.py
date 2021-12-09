@@ -26,10 +26,10 @@ async def answer_all(message: types.Message):
 	
 	# Проверка сообщения и вывод данных
 	if text==mes_emblem:
-		img = open(os.path.join(cur_path, 'img\emblem.jpg'), 'rb')
+		img = open(os.path.join(cur_path, 'img', 'emblem.jpg'), 'rb')
 		await bot.send_photo(message.from_user.id, img)
 	elif text==mes_photo:
-		img = open(os.path.join(cur_path, 'img\photo.jpg'), 'rb')
+		img = open(os.path.join(cur_path, 'img', 'photo.jpg'), 'rb')
 		await bot.send_photo(message.from_user.id, img)
 	else:
 		keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
