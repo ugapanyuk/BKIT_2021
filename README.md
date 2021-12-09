@@ -45,7 +45,10 @@
     * [Статья. SOLID принципы.](https://webdevblog.ru/solid-principy-chast-1/)
 
 
-1. [Введение в разработку чат-ботов на платформе Telegram.](https://github.com/ugapanyuk/BKIT_2021/blob/master/pres/chatbot/bkit_telegram.pdf)
+1. Введение в разработку чат-ботов на платформе Telegram.
+    * [Часть 1](https://github.com/ugapanyuk/BKIT_2021/blob/master/pres/chatbot/bkit_telegram.pdf)
+    * [Основы асинхронного программирования в Python.](https://nbviewer.jupyter.org/github/ugapanyuk/BKIT_2021/blob/main/notebooks/async/python_async.ipynb)
+    * [Часть 2](https://github.com/ugapanyuk/BKIT_2021/blob/master/pres/chatbot/bkit_telegram_2.pdf)
 
 
 ## Лабораторные работы:
