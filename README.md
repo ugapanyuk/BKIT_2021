@@ -37,7 +37,6 @@
     * [Unified Modeling Language, UML.](https://ru.wikipedia.org/wiki/UML)
     * [PlantUML.](https://plantuml.com/)
     * [Шаблоны проектирования - определение.](https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
-    * [Шаблоны проектирования - реализация на различных языках.](https://refactoring.guru/ru/design-patterns/catalog)
     * [Шаблоны проектирования - реализация на C#.](https://metanit.com/sharp/patterns/1.1.php)
     * [Введение в модульное тестирование.](https://github.com/ugapanyuk/BKIT_2021/blob/main/pres/bkit_test.pdf)
     * [Robotic Process Automation.](https://ru.wikipedia.org/wiki/Robotic_process_automation)
